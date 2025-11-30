@@ -1,4 +1,3 @@
-import pygame
 import random
 from objects.falling_object import FallingObject
 

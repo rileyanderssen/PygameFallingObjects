@@ -19,8 +19,8 @@ class Player():
     
     def draw(self, screen):
         rect = pygame.Rect(
-            self.x - self.size // 2,
-            self.y - self.size // 2,
+            self.x,
+            self.y,
             self.size,
             self.size
         )
